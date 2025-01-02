@@ -5,9 +5,7 @@
 - 📫 How to reach me sharadsingh24m@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I love exploring new technologies and solving coding challenges.
-
-- https://holopin.me/13sharad
-
+-  [![Holopin Badges](https://holopin.me/13sharad)](https://holopin.io/@13sharad)
 <!---
 13Sharad/13Sharad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
