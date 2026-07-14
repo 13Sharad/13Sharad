@@ -166,7 +166,7 @@ Built using modern web technologies with responsive UI and dynamic user workflow
 
 ### 📚 Chowdhary Economics & Commerce
 
-Educational platform featuring structured course information, downloadable study materials, academic resources, digital library access, and contact management for commerce students. :contentReference[oaicite:1]{index=1}
+Educational platform featuring structured course information, downloadable study materials, academic resources, digital library access, and contact management for commerce students.
 
 <p>
 <a href="https://chowdhary-economics-commerce-classe.vercel.app/">
@@ -174,7 +174,7 @@ Educational platform featuring structured course information, downloadable study
 </a>
 </p>
 
-</td>
+</td width="50%">
 </tr>
 </table>
 
