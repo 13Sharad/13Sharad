@@ -106,75 +106,97 @@ I'm passionate about building production-ready software that solves real-world p
 
 <table>
 <tr>
-<td width="50%">
 
-### 🚀 InterviewEasy
+<td width="50%" valign="top">
 
-Production-ready interview preparation platform built using **Next.js, React, PostgreSQL, Supabase, and Razorpay**.
+<h3>InterviewEasy</h3>
 
-✔ Authentication  
-✔ Subscription System  
-✔ Payment Integration  
-✔ Analytics Dashboard  
+Production-ready interview preparation platform built using
+<strong>Next.js, React, PostgreSQL, Supabase, and Razorpay.</strong>
 
-<p>
+<br><br>
+
+✔ Authentication<br>
+✔ Subscription System<br>
+✔ Payment Integration<br>
+✔ Analytics Dashboard
+
+<br><br>
+
 <a href="https://intervieweasy.in">
-<img src="https://img.shields.io/badge/🌐_Live_Website-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚚 TransOra Technologies
+<h3>TransOra Technologies</h3>
 
-Enterprise-grade D2C logistics platform developed using **Next.js, NestJS, PostgreSQL, Prisma ORM, and Supabase**.
+Enterprise-grade D2C logistics platform developed using
+<strong>Next.js, NestJS, PostgreSQL, Prisma ORM, and Supabase.</strong>
 
-✔ Shipment Management  
-✔ RBAC  
-✔ REST APIs  
-✔ Progressive Web App  
+<br><br>
 
-<p>
+✔ Shipment Management<br>
+✔ RBAC Authorization<br>
+✔ REST APIs<br>
+✔ Progressive Web App
+
+<br><br>
+
 <a href="https://transora.in">
-<img src="https://img.shields.io/badge/🌐_Live_Website-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE_WEBSITE-16A34A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🚗 VehicleKhareedo
+<td width="50%" valign="top">
 
-Automotive platform for vehicle discovery, **Pre-Delivery Inspection (PDI)** booking, expert consultation, financing, insurance, and community engagement.
+<h3>VehicleKhareedo</h3>
 
-Built using modern web technologies with responsive UI and dynamic user workflows.
+Modern automotive platform built for vehicle discovery, expert consultation, and PDI services.
 
-<p>
+<br><br>
+
+✔ Vehicle Search<br>
+✔ Pre-Delivery Inspection<br>
+✔ Expert Consultation<br>
+✔ Insurance & Finance
+
+<br><br>
+
 <a href="https://vehiclekhareedo.in">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE_WEBSITE-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Chowdhary Economics & Commerce
+<h3>Chowdhary Economics & Commerce</h3>
 
-Educational platform featuring structured course information, downloadable study materials, academic resources, digital library access, and contact management for commerce students.
+Educational platform developed for commerce students using modern web technologies.
 
-<p>
+<br><br>
+
+✔ Course Management<br>
+✔ Study Materials<br>
+✔ Digital Library<br>
+✔ Contact & Enquiry System
+
+<br><br>
+
 <a href="https://chowdhary-economics-commerce-classe.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Website-EA580C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE_WEBSITE-EA580C?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
-</td width="50%">
+</td>
+
 </tr>
 </table>
 
