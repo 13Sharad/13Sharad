@@ -1,12 +1,41 @@
-- 👋 Hi, I’m Sharad Singh
-- 👀 I’m passionate about Coding and Development.
-- 🌱 I’m currently learning the MERN Stack.
-- 💞️ I’m looking to collaborate with tech companies on innovative projects.
-- 📫 How to reach me sharadsingh24m@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact:  I love exploring new technologies and solving coding challenges.
--  [![Holopin Badges](https://holopin.me/13sharad)](https://holopin.io/@13sharad)
-<!---
-13Sharad/13Sharad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Sharad Singh 👋
+
+> Aspiring Software Engineer passionate about building scalable web applications, backend systems, and automation solutions.
+
+## 🚀 About Me
+
+- 🔹 Building production-ready full-stack applications using modern web technologies.
+- 🔹 Interested in Software Engineering, Full Stack Development, and QA Automation.
+- 🔹 Passionate about writing clean, scalable, and maintainable code.
+- 🔹 Always exploring new technologies and solving real-world engineering problems.
+
+## 💻 Tech Stack
+
+### Languages
+C++ • JavaScript • TypeScript
+
+### Frontend
+React.js • Next.js • HTML5 • CSS3 • Tailwind CSS
+
+### Backend
+Node.js • Express.js • NestJS • REST APIs
+
+### Databases & ORM
+PostgreSQL • MongoDB • MySQL • Supabase • Prisma ORM
+
+### Testing & QA
+Playwright • Apache JMeter • Manual Testing • UI Testing • API Testing • End-to-End Testing
+
+### DevOps & Tools
+Git • GitHub • Postman • Jira • CI/CD • Allure Reports • MCP
+
+### Authentication & Payments
+JWT • RBAC • Supabase Auth • Google OAuth • Razorpay Webhooks
+
+## 🌐 Portfolio
+
+🔗 **Portfolio:** https://sharad-studio.vercel.app
+
+## 📬 Connect With Me
+
+📧 Email: sharadsingh24m@gmail.com
