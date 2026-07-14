@@ -5,7 +5,7 @@
 <h1 align="center">Sharad Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Full+Stack+Developer;QA+Automation+Enthusiast;Building+Production-Ready+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Full+Stack+Developer;QA+Automation;Building+Production-Ready+Applications" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Building scalable web applications, backend systems, and automation solutions.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sharad-singh-b47678260">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -48,7 +48,6 @@ I'm passionate about building production-ready software that solves real-world p
 - Full Stack Development
 - Backend Engineering
 - QA Automation
-- Scalable System Design
 
 ---
 
@@ -109,10 +108,10 @@ I'm passionate about building production-ready software that solves real-world p
 
 # Client Projects
 
-| Project | Description | Live |
-|:---------|:------------|:----|
-| **InterviewEasy** | Freelance project built using Next.js, React, PostgreSQL, Supabase and Razorpay. Engineered a production-ready interview preparation platform with authentication, subscriptions, mentoring and analytics, serving **12,000+ active users**. | https://intervieweasy.in |
-| **TransOra Technologies Pvt. Ltd.** | Freelance project developed with Next.js, NestJS, PostgreSQL, Prisma ORM and Supabase. Built a production-grade D2C logistics platform featuring RBAC, REST APIs, JWT authentication and Progressive Web App support. | https://transora.in |
+| Project | Description | Live Demo |
+|:--------|:------------|:---------:|
+| **InterviewEasy** | Freelance project built using **Next.js, React, PostgreSQL, Supabase, and Razorpay**. Engineered a production-ready interview preparation platform with authentication, subscriptions, mentoring, and analytics, serving **12,000+ active users**. | **[Visit Website](https://intervieweasy.in)** |
+| **TransOra Technologies Pvt. Ltd.** | Freelance project developed using **Next.js, NestJS, PostgreSQL, Prisma ORM, and Supabase**. Built a production-grade D2C logistics platform featuring RBAC, REST APIs, JWT authentication, and Progressive Web App support. | **[Visit Website](https://transora.in)** |
 
 ---
 
@@ -147,9 +146,13 @@ I'm passionate about building production-ready software that solves real-world p
 # Let's Connect
 
 **Portfolio**  
-https://sharad-studio.vercel.app
+<a href="https://sharad-studio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 **Email**  
-sharadsingh24m@gmail.com
+<a href="mailto:sharadsingh24m@gmail.com">
+<img src="https://img.shields.io/badge/Email-sharadsingh24m%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 > *"Great software is built through curiosity, consistency, and continuous improvement."*
