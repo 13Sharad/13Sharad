@@ -51,7 +51,7 @@ I'm passionate about building production-ready software that solves real-world p
 
 # Experience
 
-## Capgemini — Excellent Edge Fellowship (Software Engineer Intern)
+## Capgemini — Excellent Edge Fellowship Program (Software Engineer Intern)
 
 <img src="https://img.shields.io/badge/Capgemini-Software%20Engineer%20Intern-0070AD?style=for-the-badge&logo=capgemini&logoColor=white"/>
 
