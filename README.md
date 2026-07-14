@@ -104,10 +104,79 @@ I'm passionate about building production-ready software that solves real-world p
 
 # Client Projects
 
-| Project | Description | Live Demo |
-|:--------|:------------|:---------:|
-| **InterviewEasy** | Freelance project built using **Next.js, React, PostgreSQL, Supabase, and Razorpay**. Engineered a production-ready interview preparation platform with authentication, subscriptions, mentoring, and analytics, serving **12,000+ active users**. | **[Visit Website](https://intervieweasy.in)** |
-| **TransOra Technologies Pvt. Ltd.** | Freelance project developed using **Next.js, NestJS, PostgreSQL, Prisma ORM, and Supabase**. Built a production-grade D2C logistics platform featuring RBAC, REST APIs, JWT authentication, and Progressive Web App support. | **[Visit Website](https://transora.in)** |
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 InterviewEasy
+
+Production-ready interview preparation platform built using **Next.js, React, PostgreSQL, Supabase, and Razorpay**.
+
+✔ Authentication  
+✔ Subscription System  
+✔ Payment Integration  
+✔ Analytics Dashboard  
+
+<p>
+<a href="https://intervieweasy.in">
+<img src="https://img.shields.io/badge/🌐_Live_Website-000000?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🚚 TransOra Technologies
+
+Enterprise-grade D2C logistics platform developed using **Next.js, NestJS, PostgreSQL, Prisma ORM, and Supabase**.
+
+✔ Shipment Management  
+✔ RBAC  
+✔ REST APIs  
+✔ Progressive Web App  
+
+<p>
+<a href="https://transora.in">
+<img src="https://img.shields.io/badge/🌐_Live_Website-16A34A?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 VehicleKhareedo
+
+Automotive platform for vehicle discovery, **Pre-Delivery Inspection (PDI)** booking, expert consultation, financing, insurance, and community engagement.
+
+Built using modern web technologies with responsive UI and dynamic user workflows.
+
+<p>
+<a href="https://vehiclekhareedo.in">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563EB?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 📚 Chowdhary Economics & Commerce
+
+Educational platform featuring structured course information, downloadable study materials, academic resources, digital library access, and contact management for commerce students. :contentReference[oaicite:1]{index=1}
+
+<p>
+<a href="https://chowdhary-economics-commerce-classe.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-EA580C?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
