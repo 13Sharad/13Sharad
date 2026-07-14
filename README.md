@@ -1,85 +1,155 @@
-# Hi there, I'm Sharad Singh 👋
+<!-- ========================================================= -->
+<!--                     SHARAD SINGH                           -->
+<!-- ========================================================= -->
 
-> Aspiring Software Engineer passionate about building scalable web applications, backend systems, and automation solutions.
+<h1 align="center">Sharad Singh</h1>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Full+Stack+Developer;QA+Automation+Enthusiast;Building+Production-Ready+Applications" />
+</p>
 
-- 🔹 Building production-ready full-stack applications using modern web technologies.
-- 🔹 Interested in Software Engineering, Full Stack Development, and QA Automation.
-- 🔹 Passionate about writing clean, scalable, and maintainable code.
-- 🔹 Always exploring new technologies and solving real-world engineering problems.
+<p align="center">
+Building scalable web applications, backend systems, and automation solutions.
+</p>
 
-## 💻 Tech Stack
+<p align="center">
 
-### 💻 Languages
+<a href="https://sharad-studio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:sharadsingh24m@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/13Sharad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=13Sharad&style=flat-square&color=2563EB"/>
+</p>
+
+---
+
+# About
+
+I'm passionate about building production-ready software that solves real-world problems.
+
+### Current Focus
+
+- Software Engineering
+- Full Stack Development
+- Backend Engineering
+- QA Automation
+- Scalable System Design
+
+---
+
+# Tech Stack
+
+## Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+## Frontend
 
-### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+## Backend
 
-### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
----
+## Database & ORM
 
-### 🗄️ Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
----
+## Testing
 
-### 🧪 Testing & QA
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-0A66C2?style=for-the-badge)
-![UI Testing](https://img.shields.io/badge/UI_Testing-4CAF50?style=for-the-badge)
-![E2E Testing](https://img.shields.io/badge/End--to--End_Testing-8E44AD?style=for-the-badge)
 
----
+## Authentication
 
-### 🔐 Authentication & Security
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-2563EB?style=for-the-badge)
 ![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 
----
+## DevOps & Tools
 
-### 🚀 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
-![Allure Report](https://img.shields.io/badge/Allure_Report-EE4C2C?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 🏅 Holopin Badges
+---
 
-[![Holopin Badges](https://holopin.me/13sharad)](https://holopin.io/@13sharad)
+# Client Projects
 
-## 🌐 Portfolio
+| Project | Description | Live |
+|:---------|:------------|:----|
+| **InterviewEasy** | Freelance project built using Next.js, React, PostgreSQL, Supabase and Razorpay. Engineered a production-ready interview preparation platform with authentication, subscriptions, mentoring and analytics, serving **12,000+ active users**. | https://intervieweasy.in |
+| **TransOra Technologies Pvt. Ltd.** | Freelance project developed with Next.js, NestJS, PostgreSQL, Prisma ORM and Supabase. Built a production-grade D2C logistics platform featuring RBAC, REST APIs, JWT authentication and Progressive Web App support. | https://transora.in |
 
-🔗 **Portfolio:** https://sharad-studio.vercel.app
+---
 
-## 📬 Connect With Me
+# GitHub Analytics
 
-📧 Email: sharadsingh24m@gmail.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=13Sharad&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13Sharad&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=13Sharad&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Achievements
+
+<p align="center">
+
+[![Holopin](https://holopin.me/13sharad)](https://holopin.io/@13sharad)
+
+</p>
+
+---
+
+# Let's Connect
+
+**Portfolio**  
+https://sharad-studio.vercel.app
+
+**Email**  
+sharadsingh24m@gmail.com
+
+> *"Great software is built through curiosity, consistency, and continuous improvement."*
