@@ -38,12 +38,12 @@ Building scalable web applications, backend systems, and automation solutions.
 
 I'm passionate about building production-ready software that solves real-world problems.
 
-### Current Focus
+## Areas of Interest
 
 - Software Engineering
 - Full Stack Development
-- Backend Engineering
-- QA Automation
+- Backend Development
+- QA Automation & Testing
 
 ---
 
