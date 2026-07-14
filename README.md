@@ -32,10 +32,6 @@ Building scalable web applications, backend systems, and automation solutions.
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=13Sharad&style=flat-square&color=2563EB"/>
-</p>
-
 ---
 
 # About
