@@ -49,27 +49,6 @@ I'm passionate about building production-ready software that solves real-world p
 
 ---
 
-# Experience
-
-## Capgemini — Excellent Edge Fellowship Program (Software Engineer Intern)
-
-<img src="https://img.shields.io/badge/Capgemini-Software%20Engineer%20Intern-0070AD?style=for-the-badge&logo=capgemini&logoColor=white"/>
-
-**Jan 2026 – May 2026**
-
-Worked on real-world Software Engineering and QA Automation assignments while gaining hands-on experience with modern development and testing practices.
-
-**Key Contributions**
-
-- Built and maintained end-to-end automation frameworks using **Playwright** and the **Page Object Model (POM)**.
-- Automated UI and API test scenarios to improve software quality and regression coverage.
-- Executed functional, regression, and cross-browser testing across multiple workflows.
-- Worked with **Git**, **GitHub**, **CI/CD**, **Jira**, and **Postman** as part of an Agile development environment.
-- Performed performance testing using **Apache JMeter** and API validation using **Postman**.
-- Strengthened knowledge of software engineering best practices, clean code, debugging, and collaborative development workflows.
-
----
-
 # Tech Stack
 
 ## Languages
